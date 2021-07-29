@@ -11,6 +11,11 @@
 
 # 2. OBJETIVOS
 
+Identificar el proceso de carga y descarga de un capacitor a través de una resistencia.
+
+Demostrar en que consiste el flujo magnético y la densidad de flujo
+
+Realizar ejercicios de la ley de Ampere para un mejor conocimiento de esta
 
 # 3. MARCO TEORICO
 
