@@ -31,23 +31,7 @@ CAPITULO 12
 
 
 # 4. RESOLUCION DE EJERCICIOS
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0001.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0002.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0003.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0004.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0005.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0006.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0007.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0008.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0009.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0010.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0011.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0012.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0013.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0014.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0015.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0016.jpg)
-![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0017.jpg)
+
 
 # 5.VIDEO.
 
