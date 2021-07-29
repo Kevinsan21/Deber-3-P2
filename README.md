@@ -31,7 +31,8 @@ CAPITULO 12
 
 
 # 4. RESOLUCION DE EJERCICIOS
-
+![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0001.jpg)
+![](
 
 # 5.VIDEO.
 
