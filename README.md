@@ -19,6 +19,13 @@ Realizar ejercicios de la ley de Ampere para un mejor conocimiento de esta
 
 # 3. MARCO TEORICO
 
+CAPITULO 11
+
+![Concept Map (17)](https://user-images.githubusercontent.com/84421020/127560127-cac67b16-7264-4e2f-af5b-7f852b3cd031.jpg)
+
+
+CAPITULO 12
+![Concept Map (18)](https://user-images.githubusercontent.com/84421020/127560093-f8cd9843-9036-47dd-8657-f3624fd9101b.jpg)
 
 
 # 4. RESOLUCION DE EJERCICIOS
