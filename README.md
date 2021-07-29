@@ -25,7 +25,9 @@ CAPITULO 11
 
 
 CAPITULO 12
-![Concept Map (18)](https://user-images.githubusercontent.com/84421020/127560093-f8cd9843-9036-47dd-8657-f3624fd9101b.jpg)
+![Concept Map (19)](https://user-images.githubusercontent.com/84421020/127560426-d11471ce-7ac7-4d80-ae8d-8c39b2f9c959.jpg)
+![Concept Map (20)](https://user-images.githubusercontent.com/84421020/127560774-79928131-8bdd-4de6-a0d2-20c0f75f2108.jpg)
+
 
 
 # 4. RESOLUCION DE EJERCICIOS
