@@ -59,6 +59,7 @@ https://www.youtube.com/watch?v=bZo8Njg5zKQ
 Se concluyo que la carga en el capacitor varía con el tiempo de acuerdo con la ecuación q(t) = Qe-t/RC y cuando el interruptor de un circuito está abierto, existe una diferencia
 de potencial Q/C a través del capacitor y una diferencia de potencial cero a traves de la resistencia ya que I=0. Si el interruptor se cierra al tiempo t=0, el capacitor 
 comienza a descargarse a traves de la reisistencia.
+Se pudo demostrar que un circuito magnético es un dispositivo en el cual las líneas de fuerza del campo magnético se hallan canalizadas trazando un camino cerrado. 
 
 # 7.BIBLIOGRAFIA.
 
