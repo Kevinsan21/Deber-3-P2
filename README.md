@@ -60,4 +60,6 @@ Se concluyo que la carga en el capacitor varía con el tiempo de acuerdo con la 
 de potencial Q/C a través del capacitor y una diferencia de potencial cero a traves de la resistencia ya que I=0. Si el interruptor se cierra al tiempo t=0, el capacitor 
 comienza a descargarse a traves de la reisistencia.
 
+# 7.BIBLIOGRAFIA.
+
 Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
