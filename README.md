@@ -60,7 +60,7 @@ Se concluyo que la carga en el capacitor varía con el tiempo de acuerdo con la 
 de potencial Q/C a través del capacitor y una diferencia de potencial cero a traves de la resistencia ya que I=0. Si el interruptor se cierra al tiempo t=0, el capacitor 
 comienza a descargarse a traves de la reisistencia.
 
-Se pudo demostrar que un circuito magnético es un dispositivo en el cual las líneas de fuerza del campo magnético se hallan canalizadas trazando un camino cerrado. 
+Se pudo demostrar que los circuitos magnéticos permiten la construcción o están implementadas en objetos como son los transformadores, motores, generadores debido a que usan estructuras magnéticas para guiar y formar campos. Normalmente se usa un imán para crear el flujo y un circuitos de hierro para guiar dicho flujo 
 
 # 7.BIBLIOGRAFIA.
 
