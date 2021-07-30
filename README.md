@@ -49,7 +49,7 @@ CAPITULO 12
 ![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0016.jpg)
 ![](https://github.com/Kevinsan21/imagenes-DEBER-3P2/blob/main/11%20y%2012_page-0017.jpg)
 # 5.VIDEO.
-
+https://www.youtube.com/watch?v=bZo8Njg5zKQ
 
 
 # 6.CONCLUSIONES.
