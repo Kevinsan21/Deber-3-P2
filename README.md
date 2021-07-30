@@ -55,7 +55,12 @@ https://www.youtube.com/watch?v=bZo8Njg5zKQ
 
 
 # 6.CONCLUSIONES.
-.
+
+Se concluyo que la carga en el capacitor varía con el tiempo de acuerdo con la ecuación q(t) = Qe-t/RC y cuando el interruptor de un circuito está abierto, existe una diferencia
+
+de potencial Q / C a través del capacitor y una diferencia de potencial cero a traves de la resistencia ya que I = 0. Si el interruptor se cierra al tiempo t = 0, el capacitor 
+
+comienza a descargarse a traves de la reisistencia.
 
 # 7.BIBLIOGRAFIA.
 
